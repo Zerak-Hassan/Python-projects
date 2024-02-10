@@ -3,6 +3,8 @@ This is a tic_tac_toe program
 Start: 16:30 08/24/2021
 End:18:00 08/24/2021"""
 #at some point may need to create an ai that doesn't pick random positions
+#use pygame to make a real board? -or tkinter
+#play again functionality
 import random
 positions=[["_","_","_"],["_","_","_"],["_","_","_"]]
 
